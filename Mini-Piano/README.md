@@ -1,7 +1,7 @@
 ## Mini Piano 
 This is a working mini piano program that is written in JAVA. It is a two octaves piano. Java MIDI library has been utilized in this program to generate musical notes that map to on screen components and keyboard interfaction
 
-![](screenshot%20of%20program%20running.png)
+![](screenshot%20of%20program%20running.png?raw=true)
 
 ## Instructions
 To play the piano:
